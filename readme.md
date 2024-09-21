@@ -1,8 +1,8 @@
 # Graficos/Plot no Streamlit
     
-    ![Tela inicial](./home.gif)
+![Tela inicial](./home.gif)
 
-    Exemplo de uso de graficos em streamlit
+ Exemplo de uso de graficos em streamlit
 
 # Compilação e execução( Build )
 
